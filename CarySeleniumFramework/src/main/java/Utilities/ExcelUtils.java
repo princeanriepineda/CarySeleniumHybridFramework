@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class ExcelUtils {
     public static Object[][] readExcel(String filePath, String sheetName) throws IOException {
-        FileInputStream inputStream = new FileInputStream("C://Users//Prince Pineda//IdeaProjects//RequestorFramework//src//main//java//Resources//testdata.xlsx");
+        FileInputStream inputStream = new FileInputStream("/Users/princeanriepineda/GitCary/CarySeleniumFramework/src/main/java/Resources/testdata.xlsx");
         Workbook workbook = new XSSFWorkbook(inputStream);
         Sheet sheet = workbook.getSheet(sheetName);
 
