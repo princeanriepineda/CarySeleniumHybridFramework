@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/princeanriepineda/IdeaProjects/CarySeleniumFramework">
+        <classes>
+<!--            <class name="TestCases.Sample.All_User_Login_Logout_2_TestCases">-->
+<!--                <methods>-->
+<!--                    <include name="test4_FOP2_000_006_008_009_010_011"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+            <class name="TestCases.Tricentis.TricentisRegistration_PositiveFlowTestCase">
+                <methods>
+                    <include name="Test1EnterVehicleDataMultipleValues"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
