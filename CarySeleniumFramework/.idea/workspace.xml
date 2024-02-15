@@ -6,8 +6,48 @@
   <component name="ChangeListManager">
     <list default="true" id="10d95764-6009-42a8-b11a-06698e906536" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNgSuites/testngTricentisSmoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNgSuites/testngTricentisSmoke.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0d93bb11-8ee9-4de7-8501-b81992b4f15d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0e0b82ca-a7b1-417a-825e-f04403b066d7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/12de8039-129e-4434-9f05-16574410de9a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/163d1dfd-3153-4e9f-a3f1-f4f43fbd4fa0-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1943f0e8-dfc7-49f1-a6e1-43ecb047dad9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1f17968c-7060-4ba7-8687-32f39b0b30c0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/298e30a9-80cb-41c4-aa89-0b8d9e1f043f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/35af7623-b6ab-4298-8a9e-18a4861c740c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/36630eb7-a14d-46d5-9ce3-937ab2bcb88d-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/38018eaf-49b2-4d0c-a8b8-0ac3cc4ad0d9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/46a1b094-4246-40ba-b2ba-8e2b41cfdbfe-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/48ecc171-0a2d-41d0-bc9d-d2c60aa554f9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5ed9e535-30b6-404b-8cfb-d3eed19b455f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/60b080f6-329c-4e11-b68c-2ae74b7a7986-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/64135c7d-ad83-419a-a8b1-caa6fd7444f1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/67aae3cc-d40b-473e-9b88-02c53d55eecc-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6b994e12-a223-4098-8ede-599f800937ba-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7b8be268-1e56-4fd7-9920-5d841bbf6acf-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7bd917e8-f675-4bcf-9c76-4d58e91d2813-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/86342987-54e5-4dac-b28c-7aeddefac9b4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8d759f05-0ba5-45b7-89d1-c729ff9aa27a-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9b5033d9-4004-4967-b4f2-6494c2673c01-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9bccbe56-c8ec-4741-adb9-f80ae93cdd78-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a2fe2b69-f418-47d3-bea4-386a67054661-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a645969d-2099-4b2a-8eac-351a36a1bf53-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a963cc89-7fe1-4326-aaa6-3dcc6fb2768e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/aa8cc97e-cf74-48e7-97b2-9c09403d23bf-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ac89b134-50dc-4a3b-bb76-6a4d4037f539-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/acf9b9e7-4bab-426e-96e9-9a0171f556a8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b9ab7490-558f-4511-92d4-c1f9a38d2d73-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bf7defe9-c209-4617-ad29-d59988031a5d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c75909ca-25ee-4648-a524-671a80d79cc9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c94fa53b-fa84-4951-b16c-97308855e3d6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ca57b9c4-4cdc-458e-a8b5-c5b415d535fe-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cb546ce7-3792-4d04-84b7-2f165ef9eba3-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cc54aa3d-b121-4b06-8652-71ee45a22851-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d0e5e5de-9727-4974-9a08-7e7f34d5198c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d7583861-c4d6-406d-b6b1-d0a20fd3a4ea-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e0cfe812-f28a-42d8-90cd-a4da37bebd20-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e34d9c14-9e3d-4799-b992-4ca5d2a4e6fa-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ee96e105-430a-42fe-abb6-53d5b451e754-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f479b29c-4a98-4ced-94b0-c11b8cd11970-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +75,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/princeanriepineda/GitCary/CarySeleniumFramework",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/princeanriepineda/GitCary/CarySeleniumFramework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/Resources" />
@@ -59,7 +101,7 @@
       <recent name="PageObjects" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/princeanriepineda/GitCary/CarySeleniumFramework/TestNgSuites/testngTricentisSmoke.xml">
+  <component name="RunManager" selected="TestNG.TricentisRegistration_PositiveFlowTestCase">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CarySeleniumFramework" />
       <extension name="coverage">
@@ -132,10 +174,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/princeanriepineda/GitCary/CarySeleniumFramework/TestNgSuites/testngTricentisSmoke.xml" />
-        <item itemvalue="TestNG./Users/princeanriepineda/IdeaProjects/CarySeleniumFramework/testng.xml" />
         <item itemvalue="TestNG.TricentisRegistration_PositiveFlowTestCase" />
         <item itemvalue="TestNG.TricentisRegistration_PositiveFlowTestCase.Test1EnterVehicleDataMultipleValues" />
+        <item itemvalue="TestNG./Users/princeanriepineda/GitCary/CarySeleniumFramework/TestNgSuites/testngTricentisSmoke.xml" />
+        <item itemvalue="TestNG./Users/princeanriepineda/IdeaProjects/CarySeleniumFramework/testng.xml" />
         <item itemvalue="JUnit.AppTest" />
       </list>
     </recent_temporary>
@@ -150,5 +192,11 @@
       <updated>1706671361121</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:io.qameta.allure:allure-java-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
   </component>
 </project>
