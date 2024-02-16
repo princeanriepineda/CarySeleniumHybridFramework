@@ -1,19 +1,28 @@
 package AbstractComponent;
 
+
+import com.aventstack.extentreports.ExtentTest;
 import io.qameta.allure.Attachment;
+import org.apache.commons.io.FileUtils;
 import org.jboss.aerogear.security.otp.Totp;
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 
 public class AbstractComponent {
 
     WebDriver driver;
+
+
     public AbstractComponent(WebDriver driver) {
         this.driver = driver;
+
     }
 
     public void waitforelementtoappear(By FindBy){
@@ -39,5 +48,8 @@ public class AbstractComponent {
     public static byte[] screenshot(WebDriver driver) {
         return ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
     }
+
+
+
 
 }
