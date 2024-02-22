@@ -1,10 +1,10 @@
 [
   {
-    "JSONUsername": "Sample@stratpoint.com",
-    "JSONPassword": "stratpoint1234"
+    "JSONUsername": "Sample@gmail.com",
+    "JSONPassword": "Test1234"
   },
   {
-    "JSONUsername": "Test@stratpoint.com",
-    "JSONPassword": "stratpoint1234"
+    "JSONUsername": "Test@gmail.com",
+    "JSONPassword": "Sample1234"
   }
 ]
